@@ -6,7 +6,7 @@
 ## About me
 - I'm a Data Scientist with over 7 years of experience
 - Based in London
-- Currently working at the Consumer Data Reserach Centre based at University College London 
+- Currently working at GEOLYTIX
 
 ## Skills 
 
@@ -29,7 +29,9 @@
 
 ## Experience 
 
-- Data Scientist, Consumer Data Reserach Centre (Jan 2023-Present) 
+- Data Scientist, Geolytix (Nov 2023 - Present)
+- Data Scientist, Ritsumeikan University (Oct 2023 - Nov 2023)
+- Data Scientist, Consumer Data Reserach Centre (Jan 2023-Sep 2023) 
 - Data Scientist, Ritsumeikan University (Oct 2022 - Dec 2022) 
 - Associate Lecturer, UCL (Sep 2021 - Sep 2022) 
 - Data Scientist, Geolytix x UCL (Dec 2020 - Jan 2021) 
