@@ -1,31 +1,4 @@
-# Hi, I'm James Todd :wave:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-a-todd/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thejamestodd@gmail.com)
-
-## About me
-- I'm a Data Scientist with over 7 years of experience
-- Based in London
-- Currently working at GEOLYTIX
-
-## Skills 
-
-### Programming/Scripting 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
-### Databases 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Dev Ops 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Typesetting
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### Hi, I'm James :wave:
 
 ## Experience 
 
@@ -40,5 +13,5 @@
 
 ## Education 
 
-- PhD, Quantitative Human Geography, UCL (Sep 2018 - Nov 2022) 
-- BA, Geography with Quantitative Methods, UCL (Sept 2015 - Sept 2018) 
+- PhD, Quantitative Human Geography, UCL (Sep 2018 - Nov 2022) [Thesis](https://discovery.ucl.ac.uk/id/eprint/10161120/)
+- BA, Geography with Quantitative Methods, UCL (Sept 2015 - Sept 2018) [Dissertation](https://journals.sagepub.com/doi/full/10.1177/23998083211001836)
