@@ -2,7 +2,7 @@
 
 ## Experience 
 
-- Data Scientist, Geolytix (Nov '23 - Present)
+- Senior Data Scientist, Geolytix (Nov '23 - Present)
 - Data Scientist, Ritsumeikan University (Oct '23 - Nov '23)
 - Data Scientist, Consumer Data Reserach Centre (Jan '23 - Sep '23) 
 - Data Scientist, Ritsumeikan University (Oct '22 - Dec '22) 
